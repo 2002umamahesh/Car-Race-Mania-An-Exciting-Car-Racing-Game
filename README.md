@@ -1,4 +1,4 @@
-# **🚗 Car-Race-Mania-An-Exciting-Car-Racing-Game **
+# 🚗 Car-Race-Mania-An-Exciting-Car-Racing-Game
 
 Welcome to the **Car Game** – an exhilarating and addictive racing experience designed with the simplicity and power of HTML, CSS, and JavaScript. Get ready to test your reflexes and driving skills in this endless car racing challenge!
 
