@@ -10,10 +10,10 @@ Welcome to the **Car Game** – an exhilarating and addictive racing experience 
 **Visual & Audio Effects:** Immerse yourself in the game with engaging visuals and sounds.<br>
 
 ## Getting Started
-**Prerequisites**
+**Prerequisites**<br>
 A modern web browser (Chrome, Firefox, Safari, etc.)
 
-**Open the game:**
+**Open the game:**<br>
 Open **car.html** in your preferred web browser.
 
 ## 🎮 Game Controls
