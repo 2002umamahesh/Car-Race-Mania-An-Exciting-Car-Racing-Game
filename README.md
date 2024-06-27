@@ -30,9 +30,9 @@ Open **car.html** in your preferred web browser.
 **Increase Speed:** The game's speed increments every 5 seconds, increasing the challenge.<br>
 
 ## Code Structure
-**index.html:** The main structure of the game.<br>
-**style.css:** Game styling, including cars, road lines, and layout.<br>
-**script.js:** Core game logic, including movement, collision detection, and score management.<br>
+**car.html:** The main structure of the game.<br>
+**css file:** Game styling, including cars, road lines, and layout.<br>
+**script file:** Core game logic, including movement, collision detection, and score management.<br>
 
 ## Key JavaScript Functions:
 **initializeGame():** Sets up the game environment and starts the game loop.<br>
